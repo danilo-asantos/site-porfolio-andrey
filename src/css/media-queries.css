@@ -1,0 +1,39 @@
+
+@media(max-width: 1080px) {
+    .seta{
+        font-size: 1.7rem;
+    }
+
+    .menu-navegacao{
+        gap: 22px;
+    }
+}
+
+@media(max-width: 800px) {
+    .btn-navegacao{
+        width: 95px;
+        font-size: 0.95rem;
+    }
+
+    .menu-navegacao{
+        gap: 22px;
+    }
+    .seta{
+        font-size: 1.5rem;
+    }
+}
+
+@media (max-width: 580px){
+    #foto-de-perfil{
+        width: 8rem;
+    }
+
+    main h1{
+        font-size: 26px;
+    }
+
+    .container{
+        width: 95%;
+        max-width: 95%;
+    }
+}
