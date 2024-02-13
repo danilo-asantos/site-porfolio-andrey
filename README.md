@@ -3,4 +3,4 @@
 </h1>
 
 ## Links 🔗
-<a href="https://kalamitt.github.io/site-porfolio-andrey/" target="_blank" align="center"> Acesse o site. </a>
+<p align="center"><a href="https://kalamitt.github.io/site-porfolio-andrey/" target="_blank"> Acesse o site. </a></p>
